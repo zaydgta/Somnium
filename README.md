@@ -1,2 +1,1 @@
-# CS-230-Projects
-Collab between Michael-Zack-Zayd
+# CS 230 Projects (Collab between Michael, Zack, Zayd)
